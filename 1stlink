@@ -1,0 +1,17 @@
+1
+#include<stdio.h>
+int main()
+{
+printf("hello world");
+return 0;
+}
+
+
+2
+#include<stdio.h>
+int main()
+{
+printf("my Name is Sreenivas");
+return 0;
+}
+
